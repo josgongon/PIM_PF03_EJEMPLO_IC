@@ -2,7 +2,7 @@ package com.pim.jrgs2526.pf03;
 
 /**
  * Hello world!
- *
+ * 
  */
 public class App 
 {
